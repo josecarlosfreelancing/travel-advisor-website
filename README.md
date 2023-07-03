@@ -2,13 +2,13 @@
 
 ![Travel Companion App with React JS](https://user-images.githubusercontent.com/71302066/174569416-9e8250a9-87ef-49f4-be4a-f077196fe12f.png)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/smartman0307)
-[![GitHub license](https://img.shields.io/github/license/smartman0307/travel-advisor?)](https://github.com/smartman0307/travel-advisor/blob/main/LICENSE.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/smartman0307/travel-advisor/commits/main)
-[![GitHub branches](https://badgen.net/github/branches/smartman0307/travel-advisor/)](https://github.com/smartman0307/travel-advisor/branches)
-[![Github commits](https://badgen.net/github/commits/smartman0307/travel-advisor/main)](https://github.com/smartman0307/travel-advisor/commits)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/seniorwebdev01)
+[![GitHub license](https://img.shields.io/github/license/smartman0307/travel-advisor?)](https://github.com/seniorwebdev01/travel-advisor-website/blob/main/LICENSE.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/seniorwebdev01/travel-advisor-website/commits/main)
+[![GitHub branches](https://badgen.net/github/branches/smartman0307/travel-advisor/)](https://github.com/seniorwebdev01/travel-advisor-website/branches)
+[![Github commits](https://badgen.net/github/commits/smartman0307/travel-advisor/main)](https://github.com/seniorwebdev01/travel-advisor-website/commits)
 [![Website](https://api.netlify.com/api/v1/badges/29710a1c-50d3-471a-a525-b37e473da25d/deploy-status)](https://travel-advisor-reactjs.netlify.app/)
-[![GitHub issues](https://img.shields.io/github/issues/smartman0307/travel-advisor)](https://github.com/smartman0307/travel-advisor/issues)
+[![GitHub issues](https://img.shields.io/github/issues/smartman0307/travel-advisor)](https://github.com/seniorwebdev01/travel-advisor-website/issues)
 
 ## ⚠️ Before you start
 
@@ -61,7 +61,7 @@ REACT_APP_RAPID_API_KEY="XXXXXXXXXXXXXXXXXXXXX"
 
 [<img src="https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=flat" width="100" height="26">](https://developers.google.com/maps)
 [<img src="https://user-images.githubusercontent.com/71302066/174567516-824b1967-5954-4ac7-9446-14a3b2ab825d.svg" alt="Rapid API" width="100">](https://rapidapi.com/)
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/smartman0307)
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/seniorwebdev01)
 
 ## 🔧 Stats
 
@@ -73,7 +73,7 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## 🚀 Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/smartman0307?style=social&label=Follow&maxAge=2592000)](https://github.com/smartman0307)
+[![GitHub followers](https://img.shields.io/github/followers/smartman0307?style=social&label=Follow&maxAge=2592000)](https://github.com/seniorwebdev01)
 
 ## ⭐ Give A Star
 
